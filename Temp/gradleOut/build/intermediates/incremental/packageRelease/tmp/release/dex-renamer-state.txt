@@ -1,0 +1,4 @@
+#Fri Apr 19 11:54:49 CST 2019
+base.0=/Users/jiyuwangluo/Ceshi/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
